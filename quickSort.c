@@ -62,6 +62,6 @@ int main()
     int n = 9;
     printArray(A, n);
     quickSort(A, 0, n - 1);
-    printArray(A, n);
+    
     return 0;
 }
