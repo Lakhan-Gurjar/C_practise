@@ -35,6 +35,6 @@ int main()
     int n = 6;
     printArray(A, n);
     insertionSort(A, n);
-    printArray(A, n);
+   
     return 0;
 }
