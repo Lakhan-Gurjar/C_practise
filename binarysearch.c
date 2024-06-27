@@ -8,7 +8,7 @@ int main(){
     scanf("%d", &item);
 
     while(lr<=up){
-        // mid = (lr + up) / 2;
+        mid = (lr + up) / 2;
         if(a[mid]==item){
             f=1;
             break;
