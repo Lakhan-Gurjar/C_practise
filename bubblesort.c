@@ -36,9 +36,9 @@ int main()
 {
     int A[] = {12, 54, 65, 7, 23, 9};
     // int A[] = {1, 2, 3, 4, 5, 6};
-    int n = 6;
-    printArray(A, n); // Printing the array before sorting
-    bubbleSort(A, n); // Function to sort the array
-    printArray(A, n); // Printing the array after sorting
+    // int n = 6;
+    // printArray(A, n); // Printing the array before sorting
+    // bubbleSort(A, n); // Function to sort the array
+    // printArray(A, n); // Printing the array after sorting
     return 0;
 }
